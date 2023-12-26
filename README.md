@@ -1,4 +1,12 @@
 # Swiggy-Data-Analysis-Using-SQL
+
+# Overview
+This repository contains a SQL case study focused on analyzing the Swiggy dataset. The goal of the project is to derive meaningful insights and answer specific questions related to the dataset using SQL queries.
+
+# Project Structure
+Queries/: This directory contains SQL queries organized by question or category. Each query addresses a specific aspect of the dataset.
+
+# Questions Explored
 Which is the top 1 city with the highest number of restaurants?
 
 How many restaurants have the word "PIZZA" in their name?
